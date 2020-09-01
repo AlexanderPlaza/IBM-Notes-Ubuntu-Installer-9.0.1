@@ -25,6 +25,4 @@ Installation Completed
 ___________________________
 Please press Enter to close this window. 
 Please search for IBM Notes using Unity. 
-If you have any issues please email
-itsupport@mcc.org
 " Nothing
